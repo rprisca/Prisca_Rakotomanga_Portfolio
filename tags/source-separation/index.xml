@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>source separation on Prisca Rakotomanga</title>
-    <link>https://example.com/tags/source-separation/</link>
+    <link>https://rprisca.github.io/Prisca_Rakotomanga_Portfolio/tags/source-separation/</link>
     <description>Recent content in source separation on Prisca Rakotomanga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/source-separation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://rprisca.github.io/Prisca_Rakotomanga_Portfolio/tags/source-separation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Source separation</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://rprisca.github.io/Prisca_Rakotomanga_Portfolio/post/project-1/</link>
       <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://rprisca.github.io/Prisca_Rakotomanga_Portfolio/post/project-1/</guid>
       <description>Problem statement :
 Data src : spectres acquis Approach : Matlab Results: qq images
 Rakotomanga P., Soussen C., Khairallah G., Amouroux M., Zaytsev S., Genina E., Chen H., Delconte A., Daul C., Tuchin V. and Blondel W. (2019) \Source separation approach for the analysis of spatially resolved multiply excited autofluorescence spectra during optical clearing of ex vivo skin.&amp;quot; Biomedical Optics Express, 10(7):364338
